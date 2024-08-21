@@ -1,9 +1,15 @@
-p {
-color: aqua;
+.purple {
+  color: blueviolet;
 }
-#first_p {
-color: black;
+.content {
+  display: flex;
+  flex-wrap: wrap;
 }
-.other_p {
-color: blueviolet;
+.box {
+  background-color: bisque;
+  width: 130px;
+  height: 100px;
+  border: 2px solid;
+  padding: 15px;
+  margin: 20px;
 }
